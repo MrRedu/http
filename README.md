@@ -51,4 +51,6 @@ Existen un montón _(más)_ de métodos/verbos para peticiones HTTP, _(https://d
 
 ## Más
 
-Si desea profundizar en este tema, estaré encantado de proporcionarle una lista completa de los recursos que utilicé: [Recursos 📚](./recursos.md) 👈🏻
+Si desea profundizar en este tema, acá tengo más [Recursos 📚](./recursos.md) 👈🏻
+
+![HTTP](./images/HTTP.png)
