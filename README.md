@@ -39,18 +39,19 @@ Las respuestas o responses, al igual que las request, tienen una forma particula
 
 ## Métodos HTTP (also known as **HTTP verbs**)
 
-| Método | Funcionalidad                                                                                                                                 |
-| :----: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-|  GET   | Solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben recuperar (traer) datos.               |
+| Método | Funcionalidad |
+| :----: | :---          |
+|  GET   | Solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben recuperar (traer) datos. |
 |  POST  | Se utiliza para enviar una entidad a un recurso en específico, causando a menudo un cambio en el estado o efectos secundarios en el servidor. |
-|  PUT   | Reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición.                                        |
-| DELETE | Borra un recurso en específico.                                                                                                               |
-| PATCH  | Es utilizado para aplicar modificaciones parciales a un recurso.                                                                              |
+|  PUT   | Reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición. |
+| DELETE | Borra un recurso en específico. |
+| PATCH  | Es utilizado para aplicar modificaciones parciales a un recurso. |
 
 Existen un montón _(más)_ de métodos/verbos para peticiones HTTP, _(https://developer.mozilla.org/es/docs/Web/HTTP/Methods)_
 
 ## Más
 
-Si desea profundizar en este tema, acá tengo más [Recursos 📚](./recursos.md) 👈🏻
+- [Métodos/verbos graficados 📸🖼️](./metodos.md)
+- Si desea profundizar en este tema, acá tengo más [Recursos 📚](./recursos.md) 👈🏻
 
 ![HTTP](./images/HTTP.png)
